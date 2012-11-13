@@ -1,4 +1,4 @@
 leTofuEnrage
 ============
 
-Application Web de critique de plats et de restaurants
+Application Web de critique de plats et de restaurants.
