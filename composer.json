@@ -1,5 +1,6 @@
 {
     "require": {
+	"doctrine/orm": "*",
         "symfony/symfony": "2.2.x-dev"
     }
 }
